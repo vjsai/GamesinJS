@@ -16,8 +16,8 @@ Games in JS is a small collection of games written in javascript as an excuse to
   - [ ] Higher or Lower Game 
   - [ ] Rock Paper Scissors
   - [ ] Puzzle Game
-    - [ ] Sumon
-     - [ ] Ping Pong
+  - [ ] Sumon
+  - [ ] Ping Pong
 - [ ] Typing Game
 - [ ] Towers of Hanoi
 
